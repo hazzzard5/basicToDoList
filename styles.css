@@ -1,0 +1,48 @@
+* {
+    background-color: beige;
+}
+
+h1 {
+    font-size: 45px;
+    font-weight: 700;
+    font-style: italic;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-content: center;
+    padding: 20px;
+}
+
+h4{
+    font-size: 30px;
+    color: #803D3B;
+}
+
+ul {
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    position: relative;
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #322C2B;
+}
+
+
+button {
+    padding: 5px;
+    border-radius: 10px;
+    color: #ffff;
+    background-color: #AF8260;
+    
+}
